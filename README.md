@@ -7,6 +7,7 @@
 - CALPIS soda
 - coffee
 - Skal
+- Water
 - black coffee
 - Japanese rice wine
 - o-i tea
