@@ -14,3 +14,6 @@
 - coffee
 - milk cocoa
 - Monster Energy
+- soda
+- Water
+
