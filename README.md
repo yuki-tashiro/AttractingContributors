@@ -5,3 +5,7 @@
 # List 
 - Mac
 - Ubuntu
+- Windows
+- Windows 11
+- Windows
+- Windows
