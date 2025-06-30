@@ -13,6 +13,7 @@
 - o-i tea
 - coffee
 - milk cocoa
+- Monster Energy
 - soda
 - Water
 
