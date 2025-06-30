@@ -5,4 +5,7 @@
 # List of place
 
 - Mac
+- Windows
 - Windows 11
+- Windows
+- Windows
