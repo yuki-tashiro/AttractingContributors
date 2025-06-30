@@ -2,9 +2,9 @@
 
 # パソコンでどの OS をメインで使っていますか？
 
-# List of place
-
+# List 
 - Mac
+- Ubuntu
 - Windows
 - Windows 11
 - Windows
