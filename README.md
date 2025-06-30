@@ -1,7 +1,7 @@
-# What did you have for dinner last night?
+# Which OS do you use as your daily driver?
 
-# 昨日の夜ご飯を教えてください！
+# パソコンでどの OS をメインで使っていますか？
 
 # List of place
 
-- Mapo tofu
+- Mac
