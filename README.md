@@ -9,3 +9,4 @@
 - Windows 11
 - Windows
 - Windows
+- Mac
