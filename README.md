@@ -2,6 +2,6 @@
 
 # パソコンでどの OS をメインで使っていますか？
 
-# List of place
-
+# List 
 - Mac
+- Ubuntu
