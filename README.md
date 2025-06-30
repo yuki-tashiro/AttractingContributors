@@ -1,5 +1,7 @@
-# Please indicate your favourite places to eat near NAIST.
+# What did you have for dinner last night?
+
+# 昨日の夜ご飯を教えてください！
 
 # List of place
-- mamemame saisai
-- Gusto
+
+- Mapo tofu
