@@ -6,3 +6,6 @@
 
 - Mac
 - Windows
+- Windows 11
+- Windows
+- Windows
