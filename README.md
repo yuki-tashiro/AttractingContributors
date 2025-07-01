@@ -9,3 +9,4 @@
 - Windows 11
 - Windows
 - Windows
+- Ubuntu 24.04
