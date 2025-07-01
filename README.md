@@ -12,3 +12,4 @@
 - Mac
 - Mac
 - Ubuntu 24.04
+- Windows
