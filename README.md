@@ -4,3 +4,4 @@
 - (e.g.)Chongqing, China
 - Yamaguchi, Japan
 - HangZhou, CHINA
+- Osaka, Japan
