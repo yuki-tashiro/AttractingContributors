@@ -9,4 +9,5 @@
 - Windows 11
 - Windows
 - Windows
+- Mac
 - Ubuntu 24.04
