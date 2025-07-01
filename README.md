@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# Where are you from?
 
-# List of place
-- mamemame saisai
-- Gusto
+e.g.
+Chongqing, China
