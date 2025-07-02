@@ -14,3 +14,4 @@
 - Ubuntu 24.04
 - Mac
 - Windows
+- Mac
