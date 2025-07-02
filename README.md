@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please tell me your favorite animal.
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of animal
+- maltese
