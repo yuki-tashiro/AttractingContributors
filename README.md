@@ -4,3 +4,4 @@
 - Apple Watch
 - smart speaker
 - Apple Watch
+- AirTag
