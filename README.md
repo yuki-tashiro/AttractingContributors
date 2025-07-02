@@ -3,3 +3,4 @@
 # List of place
 - Apple Watch
 - smart speaker
+- Apple Watch
