@@ -7,3 +7,5 @@
 - Baba, Kagawa in Japan
 - Osaka, Japan
 - Hiroshima
+- Nara, Japan
+- Okinawa, Japan
