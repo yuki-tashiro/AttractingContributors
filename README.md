@@ -6,3 +6,4 @@
 - Apple Watch
 - AirTag
 - Smart Phone
+- iPhone14
