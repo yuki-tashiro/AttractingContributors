@@ -6,6 +6,7 @@
 - HangZhou, CHINA
 - Baba, Kagawa in Japan
 - Osaka, Japan
+- Oita, Japan
 - Hiroshima
 - Nara, Japan
 - Okinawa, Japan
