@@ -7,3 +7,4 @@
 - AirTag
 - Smart Phone
 - iPhone14
+- android phones
