@@ -16,3 +16,4 @@
 - Windows
 - Mac
 - mac
+- mac
