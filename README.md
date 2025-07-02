@@ -10,3 +10,4 @@
 - Hiroshima
 - Nara, Japan
 - Okinawa, Japan
+- Fukuoka, Japan
